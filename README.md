@@ -53,15 +53,13 @@
 
 # Project Overview
 ![2025](https://github.com/user-attachments/assets/25806b43-6767-417d-8531-cdf72f5bc239)
-![25](https://github.com/user-attachments/assets/ae4e35ad-afab-4841-9502-0565ee2d3af6)
-
-![26](https://github.com/user-attachments/assets/7391e24c-877a-4f21-8a32-b9cb1b86ffa7)
-
-![27](https://github.com/user-attachments/assets/a060aea6-2d15-4a93-bdb7-9d4afa3928f8)
-
-![28](https://github.com/user-attachments/assets/ebf876da-9803-4a99-8215-95014c49d0c5)
-
-![29](https://github.com/user-attachments/assets/70163258-370f-4ece-affc-498de4603160)
-
-![32](https://github.com/user-attachments/assets/25f2e2ad-2e3e-4237-adca-8ba14519590c)
-![33](https://github.com/user-attachments/assets/714dcdd4-669c-4093-b7e0-1018d06ba1c2)
+![최종발표19](https://github.com/user-attachments/assets/68f466f0-5ebd-46d5-a078-1019065d31c4)
+![최종발표20](https://github.com/user-attachments/assets/664124ea-44f4-411d-9a02-408ad3e02b20)
+![최종발표21](https://github.com/user-attachments/assets/079813ab-a56d-45fe-a0c8-926dcb41dc17)
+![최종발표22](https://github.com/user-attachments/assets/946d9461-9dad-4114-bb44-affda86b6692)
+![최종발표23](https://github.com/user-attachments/assets/df0bc86c-eec9-42cd-9785-e6e4822b96c8)
+![최종발표24](https://github.com/user-attachments/assets/01ac3d9f-c86b-462f-ae75-5a55f3485f64)
+![최종발표25](https://github.com/user-attachments/assets/a138a359-6f18-4fd1-88d2-a57ce916c8a7)
+![최종발표26](https://github.com/user-attachments/assets/a7ce487b-f971-4232-9612-1216a93c6c6b)
+![최종발표27](https://github.com/user-attachments/assets/f63ff708-6345-4dd4-a6bb-cc4631206d50)
+![최종발표28](https://github.com/user-attachments/assets/5d395f80-031e-4ee8-8cd3-2640ba07090f)
